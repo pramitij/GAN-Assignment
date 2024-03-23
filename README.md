@@ -33,8 +33,8 @@ The experiments demonstrate significant variations in image quality and diversit
 
 - **Epoch 3500:** More defined structures and patterns emerge.
 
-![img_2.png](img_2.png)
 ![img_3.png](img_3.png)
+![img_2.png](img_2.png)
 
 - **Epoch 5500:** Images become clearer with recognizable features.
 
@@ -69,5 +69,5 @@ Clone the project repository.
 Run the Jupyter notebooks to replicate the experiments or explore further modifications.
 
 ## Conclusion
-This project underscores the effectiveness of convolutional layers and the strategic manipulation of noise vectors in enhancing the generative capabilities of GANs. The advancements demonstrated in this study pave the way for further exploration into generating high-fidelity images across various domains.
-
+This project not only deepened my understanding of GANs and their architectural nuances but also highlighted the significant impact of noise vectors on the generation process. The experimentation with different types of noise was particularly revealing, showcasing the diverse range of images that could be produced by manipulating these inputs.
+In conclusion, the project stands as a testament to the potential of convolutional GANs in generating realistic images and the importance of architectural and input variations in shaping the outcome. My exploration into GANs has been both a technical journey and a fulfilling personal endeavor to unravel the complexities of this powerful deep learning model.
